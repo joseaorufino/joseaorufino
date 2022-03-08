@@ -1,4 +1,4 @@
-## Hi there, I'm Jose Augusto ✌️
+## Hi there, I'm José Augusto ✌️
 
 - 📗 I'm a Computer Science student at [UFCG](https://portal.ufcg.edu.br/)
 - ⚡️ Fun Fact: I really like Linux Distributions
